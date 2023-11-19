@@ -1,7 +1,7 @@
 <h1>Multi-Precision Integer IO and Adder</h1>
 
 <h2>Description</h2>
-The following is an assembly program used to perform addition operation between two numbers represented as structs, creating a third number represented the same way. This is done by byte-wise addition written from scratch between the two arrays defined in the given structs while maintaining the carry between additions and taking into consideration the way integers are represented in memory. The result will be placed in a newly allocated array in a new allocated struct.
+The following is an assembly program used to perform addition operation between two numbers represented as structs, creating a third number represented the same way. The program first reads an input from the user and right after parsing it the program will sum the numbers up. This is done by byte-wise addition written from scratch between the two arrays defined in structs while maintaining the carry between additions and taking into consideration the way integers are represented in memory. The result will be placed in a newly allocated array in a new allocated struct.
 <br />
 
 
